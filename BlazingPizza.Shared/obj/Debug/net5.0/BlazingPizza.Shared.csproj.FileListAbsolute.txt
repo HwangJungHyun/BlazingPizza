@@ -1,0 +1,15 @@
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.Shared.deps.json
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.Shared.dll
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net5.0\ref\BlazingPizza.Shared.dll
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.Shared.pdb
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.ComponentsLibrary.dll
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.ComponentsLibrary.pdb
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.CopyComplete
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.dll
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\ref\BlazingPizza.Shared.dll
+C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.pdb
