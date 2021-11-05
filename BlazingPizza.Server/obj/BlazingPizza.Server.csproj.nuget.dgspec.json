@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Server\\BlazingPizza.Server.csproj": {}
+    "C:\\source\\BlazingPizza\\BlazingPizza.Server\\BlazingPizza.Server.csproj": {}
   },
   "projects": {
-    "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
+    "C:\\source\\BlazingPizza\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+        "projectUniqueName": "C:\\source\\BlazingPizza\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
         "projectName": "BlazingPizza.Client",
-        "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+        "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
         "packagesPath": "C:\\Users\\황정현\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Client\\obj\\",
+        "outputPath": "C:\\source\\BlazingPizza\\BlazingPizza.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+              "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
               },
-              "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
-                "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
+              "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+                "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
               }
             }
           }
@@ -53,19 +53,19 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "System.Net.Http.Json": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+    "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "projectUniqueName": "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
         "projectName": "BlazingPizza.ComponentsLibrary",
-        "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
         "packagesPath": "C:\\Users\\황정현\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\obj\\",
+        "outputPath": "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,11 +140,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Server\\BlazingPizza.Server.csproj": {
+    "C:\\source\\BlazingPizza\\BlazingPizza.Server\\BlazingPizza.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
+        "projectUniqueName": "C:\\source\\BlazingPizza\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
         "projectName": "BlazingPizza.Server",
-        "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
+        "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
         "packagesPath": "C:\\Users\\황정현\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Server\\obj\\",
+        "outputPath": "C:\\source\\BlazingPizza\\BlazingPizza.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,11 +194,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
-                "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj"
+              "C:\\source\\BlazingPizza\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
+                "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.Client\\BlazingPizza.Client.csproj"
               },
-              "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
-                "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
+              "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+                "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
               }
             }
           }
@@ -215,35 +215,35 @@
           "dependencies": {
             "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -268,14 +268,14 @@
         }
       }
     },
-    "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+    "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+        "projectUniqueName": "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
         "projectName": "BlazingPizza.Shared",
-        "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+        "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
         "packagesPath": "C:\\Users\\황정현\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Shared\\obj\\",
+        "outputPath": "C:\\source\\BlazingPizza\\BlazingPizza.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -296,8 +296,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+              "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\source\\BlazingPizza\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
               }
             }
           }

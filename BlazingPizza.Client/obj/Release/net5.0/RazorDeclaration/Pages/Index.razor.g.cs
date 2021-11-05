@@ -111,6 +111,20 @@ using BlazingPizza.ComponentsLibrary;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 22 "C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Client\Pages\Index.razor"
+       
+    List<PizzaSpecial> specials;
+
+    protected override async Task OnInitializedAsync()
+    {
+        specials = await HttpClient.GetFromJsonAsync<List<PizzaSpecial>>("specials");
+    }
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient HttpClient { get; set; }
     }
 }
 #pragma warning restore 1591

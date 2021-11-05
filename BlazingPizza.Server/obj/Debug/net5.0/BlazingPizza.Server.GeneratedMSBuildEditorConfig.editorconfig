@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = BlazingPizza.Server
-build_property.ProjectDir = C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.Server\
+build_property.ProjectDir = C:\source\BlazingPizza\BlazingPizza.Server\

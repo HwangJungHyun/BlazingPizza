@@ -13,7 +13,7 @@ namespace BlazingPizza.ComponentsLibrary.Map
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\Map\Map.razor"
+#line 1 "C:\source\BlazingPizza\BlazingPizza.ComponentsLibrary\Map\Map.razor"
 using Microsoft.JSInterop;
 
 #line default
@@ -27,7 +27,7 @@ using Microsoft.JSInterop;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 6 "C:\source\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\Map\Map.razor"
+#line 6 "C:\source\BlazingPizza\BlazingPizza.ComponentsLibrary\Map\Map.razor"
        
     string elementId = $"map-{Guid.NewGuid().ToString("D")}";
     

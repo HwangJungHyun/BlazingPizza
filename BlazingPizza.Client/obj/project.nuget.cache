@@ -1,38 +1,102 @@
 {
   "version": 2,
-  "dgSpecHash": "HDQ4413XJwi4Oii1ockfiawsM8q0lxSitzZMvYRINGlX8ibSmzZORdoB81WI3568c4ZCruSv4RZ+M8zhfLp5IQ==",
+  "dgSpecHash": "A1nZfivXkTgLufjD78WTxRnYDtj0VIwvW9OBrv/0pt/pPo6NQSooiuRP2muAy6HdWdGd01tDMmBe7rzNKfeiVA==",
   "success": true,
-  "projectFilePath": "C:\\source\\blazor-workshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+  "projectFilePath": "C:\\source\\BlazingPizza\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.0\\microsoft.aspnetcore.components.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.0\\microsoft.aspnetcore.components.analyzers.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\5.0.0\\microsoft.aspnetcore.components.authorization.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\5.0.0\\microsoft.aspnetcore.components.forms.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.0\\microsoft.aspnetcore.components.web.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\5.0.0\\microsoft.aspnetcore.components.webassembly.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\5.0.0\\microsoft.aspnetcore.components.webassembly.authentication.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.0\\microsoft.aspnetcore.metadata.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.jsinterop\\5.0.0\\microsoft.jsinterop.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.0\\microsoft.jsinterop.webassembly.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512",
-    "C:\\Users\\황정현\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.3\\microsoft.aspnetcore.components.analyzers.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\3.1.3\\microsoft.aspnetcore.components.authorization.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.3\\microsoft.aspnetcore.components.forms.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.3\\microsoft.aspnetcore.components.web.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\3.2.0\\microsoft.aspnetcore.components.webassembly.3.2.0.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\3.2.0\\microsoft.aspnetcore.components.webassembly.authentication.3.2.0.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.httphandler\\3.2.0\\microsoft.aspnetcore.components.webassembly.httphandler.3.2.0.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.3\\microsoft.aspnetcore.metadata.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.3\\microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.http\\2.1.0\\microsoft.extensions.http.2.1.0.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.jsinterop\\3.1.3\\microsoft.jsinterop.3.1.3.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.0\\microsoft.jsinterop.webassembly.3.2.0.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
+    "C:\\Users\\황정현\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
     "C:\\Users\\황정현\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.9\\microsoft.netcore.app.runtime.browser-wasm.5.0.9.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 종속성 Microsoft.AspNetCore.Components.WebAssembly에 포함 하한이 포함되어 있지 않습니다. 일관된 복원 결과를 얻으려면 종속 버전의 하한을 포함하세요.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v5.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 종속성 Microsoft.AspNetCore.Components.WebAssembly.Authentication에 포함 하한이 포함되어 있지 않습니다. 일관된 복원 결과를 얻으려면 종속 버전의 하한을 포함하세요.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v5.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 종속성 Microsoft.Extensions.Http에 포함 하한이 포함되어 있지 않습니다. 일관된 복원 결과를 얻으려면 종속 버전의 하한을 포함하세요.",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v5.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 종속성 System.Net.Http.Json에 포함 하한이 포함되어 있지 않습니다. 일관된 복원 결과를 얻으려면 종속 버전의 하한을 포함하세요.",
+      "libraryId": "System.Net.Http.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v5.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BlazingPizza.ComponentsLibrary은(는) Microsoft.AspNetCore.Components 종속성에 대한 포함 하한을 제공하지 않습니다. 대략적으로 가장 잘 일치하는 Microsoft.AspNetCore.Components 3.0.0이(가) 확인되었습니다.",
+      "libraryId": "Microsoft.AspNetCore.Components",
+      "targetGraphs": [
+        "net5.0",
+        "net5.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BlazingPizza.ComponentsLibrary은(는) Microsoft.AspNetCore.Components.Web 종속성에 대한 포함 하한을 제공하지 않습니다. 대략적으로 가장 잘 일치하는 Microsoft.AspNetCore.Components.Web 3.0.0이(가) 확인되었습니다.",
+      "libraryId": "Microsoft.AspNetCore.Components.Web",
+      "targetGraphs": [
+        "net5.0",
+        "net5.0/browser-wasm"
+      ]
+    }
+  ]
 }
